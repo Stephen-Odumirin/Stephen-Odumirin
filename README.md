@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Stephen, an Android Developer 🌚. 
 
-- 🔭 I’m currently working on GADS 2020 Community Project. 
+- 🔭 I’m currently available for gigs and contracts  
 - 🌱 I’m currently learning Flutter at my leisure time. 
 - 💬 Ask me about anything ! 
 

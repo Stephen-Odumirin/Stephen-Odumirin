@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Stephen, an Android Developer 🌚. 
+I'm Stephen, a Google Certified Associate Android Developer (http://bit.ly/stgooglecert) 🌚. 
 
 - 🔭 I’m currently available for gigs and contracts  
 - 🌱 I’m currently learning Flutter at my leisure time. 

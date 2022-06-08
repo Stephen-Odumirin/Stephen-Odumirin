@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Stephen, a Google Certified Associate Android Developer (http://bit.ly/stgooglecert) 💻. 
+I'm Stephen, a Google Certified Associate Android Developer (http://bit.ly/stgooglecert) 💻. With over 2 years of experience in developing android applications.
 
 - 🔭 I’m currently available for gigs and contracts  
 - 🌱 I’m currently advancing my knowlegde on android development with kotlin.
